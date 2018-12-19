@@ -1,0 +1,6 @@
+* Tasks
+** TODO Make frankenbuffer
+   ie, a buffer that holds lines [x,y] from different buffers, and all key presses on 
+   the f buffer are forwarded to their actual buffers. 
+*** TODO Keep self in actual buffer, have fake cursor in fbuffer?
+** TODO Add function to move highlighted to frankenbuffer 
