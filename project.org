@@ -4,3 +4,7 @@
    the f buffer are forwarded to their actual buffers. 
 *** TODO Keep self in actual buffer, have fake cursor in fbuffer?
 ** TODO Add function to move highlighted to frankenbuffer 
+
+
+   
+
